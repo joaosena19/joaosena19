@@ -6,7 +6,7 @@
   <img height="180em" alt="joaosena19 Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosena19&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
-[![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/joaosena19)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaosena19/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosenadainese@gmail.com)
+[![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/joaosena19) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaosena19/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosenadainese@gmail.com)
 
 
 <!--
