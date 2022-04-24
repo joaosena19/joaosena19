@@ -1,4 +1,4 @@
-### Olá, eu sou o João Sena 👋
+### Hi, I'm João Sena 👋
 
  <div>
   <a href="https://github.com/joaosena19">
